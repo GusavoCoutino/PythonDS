@@ -1,4 +1,1 @@
-# DataStructuresPython
-# DataStructuresPython
-# DataStructuresPython
-# DataStructuresPython
+#Different Data Structures realized in Python
